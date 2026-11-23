@@ -11,7 +11,6 @@ type Props = {
 
 const EXAM_SECONDS = 60 * 60;
 const REVEAL_MS = 3000;
-const ADVANCE_MS = 1500;
 
 function formatTime(totalSeconds: number): string {
   const m = Math.floor(totalSeconds / 60);
@@ -41,7 +40,8 @@ export function Quiz({
   const selected = answers[question.id];
   const progress = ((index + 1) / questions.length) * 100;
   const isExam = mode === 'exam';
-  const locked = !isExam && (waitingReveal || revealed);
+  const locked = !isExam && (waitingReveal || revealed || !!selected);
+  const canGoNext = isExam ? !!selected : revealed;
 
   useEffect(() => {
     if (!isExam || !timerEnabled) return;
@@ -63,22 +63,6 @@ export function Quiz({
 
     return () => window.clearTimeout(revealTimer);
   }, [isExam, waitingReveal, selected, index]);
-
-  useEffect(() => {
-    if (isExam || !revealed) return;
-
-    const advanceTimer = window.setTimeout(() => {
-      if (index >= questions.length - 1) {
-        finishRef.current(answersRef.current);
-        return;
-      }
-      setIndex((i) => i + 1);
-      setRevealed(false);
-      setWaitingReveal(false);
-    }, ADVANCE_MS);
-
-    return () => window.clearTimeout(advanceTimer);
-  }, [isExam, revealed, index, questions.length]);
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -110,17 +94,29 @@ export function Quiz({
     }
   }
 
+  function syncInstantStateForIndex(nextIndex: number) {
+    const nextQ = questions[nextIndex];
+    const alreadyAnswered = !!answers[nextQ.id];
+    setWaitingReveal(false);
+    setRevealed(alreadyAnswered);
+  }
+
   function goNext() {
+    if (!canGoNext) return;
     if (index >= questions.length - 1) {
       onFinish(answers);
       return;
     }
-    setIndex((i) => i + 1);
+    const nextIndex = index + 1;
+    setIndex(nextIndex);
+    if (!isExam) syncInstantStateForIndex(nextIndex);
   }
 
   function goPrev() {
-    if (index === 0) return;
-    setIndex((i) => i - 1);
+    if (index === 0 || waitingReveal) return;
+    const prevIndex = index - 1;
+    setIndex(prevIndex);
+    if (!isExam) syncInstantStateForIndex(prevIndex);
   }
 
   function choiceClass(key: string): string {
@@ -198,36 +194,35 @@ export function Quiz({
         )}
       </article>
 
-      {isExam && (
-        <div className="quiz-nav">
+      <div className="quiz-nav">
+        <button
+          type="button"
+          className="secondary-btn"
+          onClick={goPrev}
+          disabled={index === 0 || waitingReveal}
+        >
+          Previous
+        </button>
+        {index < questions.length - 1 ? (
           <button
             type="button"
-            className="secondary-btn"
-            onClick={goPrev}
-            disabled={index === 0}
+            className="primary-btn"
+            onClick={goNext}
+            disabled={!canGoNext}
           >
-            Previous
+            Next
           </button>
-          {index < questions.length - 1 ? (
-            <button
-              type="button"
-              className="primary-btn"
-              onClick={goNext}
-              disabled={!selected}
-            >
-              Next
-            </button>
-          ) : (
-            <button
-              type="button"
-              className="primary-btn"
-              onClick={() => onFinish(answers)}
-            >
-              Finish
-            </button>
-          )}
-        </div>
-      )}
+        ) : (
+          <button
+            type="button"
+            className="primary-btn"
+            onClick={() => onFinish(answers)}
+            disabled={!canGoNext}
+          >
+            Finish
+          </button>
+        )}
+      </div>
     </div>
   );
 }
