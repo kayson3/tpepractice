@@ -1,5 +1,6 @@
 import { scoreAnswers } from '../lib/scoring';
 import type { AnswerMap, Question } from '../types';
+import { StemText } from './StemText';
 
 type Props = {
   questions: Question[];
@@ -59,7 +60,7 @@ export function Results({ questions, answers, onRetry, onHome }: Props) {
                     Section {q.section}
                   </span>
                 </div>
-                {q.stem && <p className="review-stem">{q.stem}</p>}
+                {q.stem && <StemText className="review-stem" text={q.stem} />}
                 <p>
                   <span className="muted">Your answer:</span>{' '}
                   {given ? (

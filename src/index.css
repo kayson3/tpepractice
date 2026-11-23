@@ -258,6 +258,15 @@ input {
   font-size: 1.05rem;
 }
 
+.stem u,
+.review-stem u {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  color: var(--brand);
+  font-weight: 600;
+}
+
 .choices {
   display: grid;
   gap: 0.55rem;

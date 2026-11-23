@@ -7,7 +7,7 @@ export const SECTION_B = [
     section: 'B',
     sectionTitle: 'Discourse Reference',
     instruction: INSTR,
-    stem: 'Spiritual growth is not physical growth. No one sees one, but all see the other.',
+    stem: 'Spiritual growth is not physical growth. No one sees [[one]], but all see [[the other]].',
     choices: [
       { key: 'a', text: 'physical growth.' },
       { key: 'b', text: 'growth.' },
@@ -19,7 +19,7 @@ export const SECTION_B = [
     id: 27,
     section: 'B',
     sectionTitle: 'Discourse Reference',
-    stem: 'Jordan just bought a fridge. The door fell down.',
+    stem: 'Jordan just bought a fridge. [[The door]] fell down.',
     choices: [
       { key: 'a', text: 'The door of the house.' },
       { key: 'b', text: 'The door of the fridge.' },
@@ -31,7 +31,7 @@ export const SECTION_B = [
     id: 28,
     section: 'B',
     sectionTitle: 'Discourse Reference',
-    stem: "Ronke: I know the meaning of the word 'voodoo'.\nVerena: I do too",
+    stem: "Ronke: I know the meaning of the word 'voodoo'.\nVerena: [[I do too]]",
     choices: [
       { key: 'a', text: 'know.' },
       { key: 'b', text: 'know it.' },
@@ -43,7 +43,7 @@ export const SECTION_B = [
     id: 29,
     section: 'B',
     sectionTitle: 'Discourse Reference',
-    stem: "He was charged with the following offences: sleeping with his neighbour, his secretary, his niece and his guard's daughter. People condemned him for the incest than for the rest.",
+    stem: "He was charged with the following offences: sleeping with his neighbour, his secretary, his niece and his guard's daughter. People condemned him for [[the incest]] than for the rest.",
     choices: [
       { key: 'a', text: 'Sleeping with his neighbour.' },
       { key: 'b', text: 'Sleeping with his secretary.' },
@@ -55,7 +55,7 @@ export const SECTION_B = [
     id: 30,
     section: 'B',
     sectionTitle: 'Discourse Reference',
-    stem: 'Two things are involved in this matter: dealing with individuals who do not like music and coping with a war-bent society. Philistinism is more important here.',
+    stem: 'Two things are involved in this matter: dealing with individuals who do not like music and coping with a war-bent society. [[Philistinism]] is more important here.',
     choices: [
       { key: 'a', text: 'Coping with a war-bent society.' },
       { key: 'b', text: 'Dealing with individuals who do not like music.' },
@@ -67,7 +67,7 @@ export const SECTION_B = [
     id: 31,
     section: 'B',
     sectionTitle: 'Discourse Reference',
-    stem: 'Tell me your plans, and I will give you some money.',
+    stem: 'Tell me your plans, [[and]] I will give you some money.',
     choices: [
       { key: 'a', text: 'When you have done so.' },
       { key: 'b', text: 'After you have told me your plans.' },
@@ -79,7 +79,7 @@ export const SECTION_B = [
     id: 32,
     section: 'B',
     sectionTitle: 'Discourse Reference',
-    stem: 'Insert the disk into the player. Then, press the play button.',
+    stem: 'Insert the disk into the player. [[Then]], press the play button.',
     choices: [
       { key: 'a', text: 'In the course of that.' },
       { key: 'b', text: 'After that.' },
@@ -91,7 +91,7 @@ export const SECTION_B = [
     id: 33,
     section: 'B',
     sectionTitle: 'Discourse Reference',
-    stem: 'He said "I will marry you if you want". But I felt his condition was discouraging.',
+    stem: 'He said "I will marry you if you want". But I felt his [[condition]] was discouraging.',
     choices: [
       { key: 'a', text: 'I will marry you.' },
       { key: 'b', text: 'If.' },
@@ -103,7 +103,7 @@ export const SECTION_B = [
     id: 34,
     section: 'B',
     sectionTitle: 'Discourse Reference',
-    stem: 'This examination is meant to determine the level of English language competence of applicants. This is because coping in higher degree classes requires being able to use the English Language effectively.',
+    stem: 'This examination is meant to determine the level of English language competence of applicants. [[This]] is because coping in higher degree classes requires being able to use the English Language effectively.',
     choices: [
       { key: 'a', text: 'This examination.' },
       { key: 'b', text: 'Conducting the examination.' },
@@ -115,7 +115,7 @@ export const SECTION_B = [
     id: 35,
     section: 'B',
     sectionTitle: 'Discourse Reference',
-    stem: 'The University of Ibadan is the first and the best University in Nigeria. No one denies that.',
+    stem: 'The University of Ibadan is the first and the best University in Nigeria. No one denies [[that]].',
     choices: [
       { key: 'a', text: 'The fact that the university is the best.' },
       { key: 'b', text: 'The fact that UI is the first and the best.' },
@@ -127,7 +127,7 @@ export const SECTION_B = [
     id: 36,
     section: 'B',
     sectionTitle: 'Discourse Reference',
-    stem: 'Discourse analysis is the study of language used by members of a speech community. It looks at both language form and language function and includes the study of both spoken interaction and written texts.',
+    stem: 'Discourse analysis is the study of language used by members of a speech community. [[It]] looks at both language form and language function and includes the study of both spoken interaction and written texts.',
     choices: [
       { key: 'a', text: 'The study of language.' },
       { key: 'b', text: 'Discourse studies.' },
@@ -139,7 +139,7 @@ export const SECTION_B = [
     id: 37,
     section: 'B',
     sectionTitle: 'Discourse Reference',
-    stem: "I am presently in South Africa. I won't deceive you, I like it.",
+    stem: "I am presently in South Africa. I won't deceive you, I like [[it]].",
     choices: [
       { key: 'a', text: 'South Africa.' },
       { key: 'b', text: 'Life in South Africa.' },
@@ -151,7 +151,7 @@ export const SECTION_B = [
     id: 38,
     section: 'B',
     sectionTitle: 'Discourse Reference',
-    stem: "Laide, why did you take her money. That's shameful.",
+    stem: "Laide, why did you take her money. [[That's]] shameful.",
     choices: [
       { key: 'a', text: 'Taking her money.' },
       { key: 'b', text: 'Stealing her money.' },

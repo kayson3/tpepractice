@@ -142,7 +142,7 @@ export const SECTION_F = [
     section: 'F',
     sectionTitle: 'Vocabulary Choices, Collocations, Sense Relations and Tenses',
     instruction: INSTR_OPP,
-    stem: 'Ossified is nearly opposite in meaning to….',
+    stem: '**Ossified** is nearly opposite in meaning to….',
     choices: [
       { key: 'a', text: 'Durable' },
       { key: 'b', text: 'Dainty' },
@@ -155,7 +155,7 @@ export const SECTION_F = [
     id: 137,
     section: 'F',
     sectionTitle: 'Vocabulary Choices, Collocations, Sense Relations and Tenses',
-    stem: 'Mr Akindele is the most disingenuous person I have ever seen.',
+    stem: 'Mr Akindele is the most **disingenuous** person I have ever seen.',
     choices: [
       { key: 'a', text: 'Transparent' },
       { key: 'b', text: 'Parched' },
@@ -168,7 +168,7 @@ export const SECTION_F = [
     id: 138,
     section: 'F',
     sectionTitle: 'Vocabulary Choices, Collocations, Sense Relations and Tenses',
-    stem: 'I felt enervated by the strain of moving.',
+    stem: 'I felt **enervated** by the strain of moving.',
     choices: [
       { key: 'a', text: 'Idyllic' },
       { key: 'b', text: 'Grandiose' },
@@ -181,7 +181,7 @@ export const SECTION_F = [
     id: 139,
     section: 'F',
     sectionTitle: 'Vocabulary Choices, Collocations, Sense Relations and Tenses',
-    stem: 'Adeola is very brash and unprepossessing.',
+    stem: 'Adeola is very brash and **unprepossessing**.',
     choices: [
       { key: 'a', text: 'Ugly' },
       { key: 'b', text: 'Arrogant' },
@@ -194,7 +194,7 @@ export const SECTION_F = [
     id: 140,
     section: 'F',
     sectionTitle: 'Vocabulary Choices, Collocations, Sense Relations and Tenses',
-    stem: 'Joyce can be obstreperous at times.',
+    stem: 'Joyce can be **obstreperous** at times.',
     choices: [
       { key: 'a', text: 'Placid' },
       { key: 'b', text: 'Stubborn' },
@@ -208,7 +208,7 @@ export const SECTION_F = [
     section: 'F',
     sectionTitle: 'Vocabulary Choices, Collocations, Sense Relations and Tenses',
     instruction: INSTR_SIM,
-    stem: 'Periphrastic is almost similar in meaning to….',
+    stem: '**Periphrastic** is almost similar in meaning to….',
     choices: [
       { key: 'a', text: 'Concise' },
       { key: 'b', text: 'Circular' },
@@ -221,7 +221,7 @@ export const SECTION_F = [
     id: 142,
     section: 'F',
     sectionTitle: 'Vocabulary Choices, Collocations, Sense Relations and Tenses',
-    stem: 'His walk to the stage was brisk and sprightly.',
+    stem: 'His walk to the stage was brisk and **sprightly**.',
     choices: [
       { key: 'a', text: 'Nimble' },
       { key: 'b', text: 'Sluggish' },
@@ -234,7 +234,7 @@ export const SECTION_F = [
     id: 143,
     section: 'F',
     sectionTitle: 'Vocabulary Choices, Collocations, Sense Relations and Tenses',
-    stem: 'His essays are long and prolix.',
+    stem: 'His essays are long and **prolix**.',
     choices: [
       { key: 'a', text: 'Antediluvian' },
       { key: 'b', text: 'Terse' },
@@ -247,7 +247,7 @@ export const SECTION_F = [
     id: 144,
     section: 'F',
     sectionTitle: 'Vocabulary Choices, Collocations, Sense Relations and Tenses',
-    stem: 'Bukola Smith won plaudits for her skillful handling of the research.',
+    stem: 'Bukola Smith won **plaudits** for her skillful handling of the research.',
     choices: [
       { key: 'a', text: 'Denunciation' },
       { key: 'b', text: 'Pleasure' },
@@ -260,7 +260,7 @@ export const SECTION_F = [
     id: 145,
     section: 'F',
     sectionTitle: 'Vocabulary Choices, Collocations, Sense Relations and Tenses',
-    stem: 'The soldiers were subjected to desultory fire from the enemy position.',
+    stem: 'The soldiers were subjected to **desultory** fire from the enemy position.',
     choices: [
       { key: 'a', text: 'Salacious' },
       { key: 'b', text: 'Cursory' },
@@ -273,7 +273,7 @@ export const SECTION_F = [
     id: 146,
     section: 'F',
     sectionTitle: 'Vocabulary Choices, Collocations, Sense Relations and Tenses',
-    stem: 'The drug is used for prophylactic purposes.',
+    stem: 'The drug is used for **prophylactic** purposes.',
     choices: [
       { key: 'a', text: 'curative' },
       { key: 'b', text: 'preventive' },
@@ -285,7 +285,7 @@ export const SECTION_F = [
     id: 147,
     section: 'F',
     sectionTitle: 'Vocabulary Choices, Collocations, Sense Relations and Tenses',
-    stem: "The chairman's remark is germane to the issue under discussion.",
+    stem: "The chairman's remark is **germane** to the issue under discussion.",
     choices: [
       { key: 'a', text: 'redundant' },
       { key: 'b', text: 'relevant' },
@@ -297,7 +297,7 @@ export const SECTION_F = [
     id: 148,
     section: 'F',
     sectionTitle: 'Vocabulary Choices, Collocations, Sense Relations and Tenses',
-    stem: 'It is unfortunate that his loss can no longer be redeemed.',
+    stem: 'It is unfortunate that his loss can no longer be **redeemed**.',
     choices: [
       { key: 'a', text: 'recovered' },
       { key: 'b', text: 'revamped' },
@@ -309,7 +309,7 @@ export const SECTION_F = [
     id: 149,
     section: 'F',
     sectionTitle: 'Vocabulary Choices, Collocations, Sense Relations and Tenses',
-    stem: "He has been handicapped by the manager's comments.",
+    stem: "He has been **handicapped** by the manager's comments.",
     choices: [
       { key: 'a', text: 'prevented' },
       { key: 'b', text: 'incapacitated' },
@@ -321,7 +321,7 @@ export const SECTION_F = [
     id: 150,
     section: 'F',
     sectionTitle: 'Vocabulary Choices, Collocations, Sense Relations and Tenses',
-    stem: 'The range of options provided is not clear.',
+    stem: 'The **range** of options provided is not clear.',
     choices: [
       { key: 'a', text: 'limitation' },
       { key: 'b', text: 'scope' },

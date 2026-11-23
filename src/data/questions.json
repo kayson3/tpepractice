@@ -605,7 +605,7 @@
     "section": "B",
     "sectionTitle": "Discourse Reference",
     "instruction": "From the options indicated against letters a–d, identify the words/expressions that the underlined words connect with in each of the sets of sentences below:",
-    "stem": "Spiritual growth is not physical growth. No one sees one, but all see the other.",
+    "stem": "Spiritual growth is not physical growth. No one sees [[one]], but all see [[the other]].",
     "choices": [
       {
         "key": "a",
@@ -630,7 +630,7 @@
     "id": 27,
     "section": "B",
     "sectionTitle": "Discourse Reference",
-    "stem": "Jordan just bought a fridge. The door fell down.",
+    "stem": "Jordan just bought a fridge. [[The door]] fell down.",
     "choices": [
       {
         "key": "a",
@@ -655,7 +655,7 @@
     "id": 28,
     "section": "B",
     "sectionTitle": "Discourse Reference",
-    "stem": "Ronke: I know the meaning of the word 'voodoo'.\nVerena: I do too",
+    "stem": "Ronke: I know the meaning of the word 'voodoo'.\nVerena: [[I do too]]",
     "choices": [
       {
         "key": "a",
@@ -680,7 +680,7 @@
     "id": 29,
     "section": "B",
     "sectionTitle": "Discourse Reference",
-    "stem": "He was charged with the following offences: sleeping with his neighbour, his secretary, his niece and his guard's daughter. People condemned him for the incest than for the rest.",
+    "stem": "He was charged with the following offences: sleeping with his neighbour, his secretary, his niece and his guard's daughter. People condemned him for [[the incest]] than for the rest.",
     "choices": [
       {
         "key": "a",
@@ -705,7 +705,7 @@
     "id": 30,
     "section": "B",
     "sectionTitle": "Discourse Reference",
-    "stem": "Two things are involved in this matter: dealing with individuals who do not like music and coping with a war-bent society. Philistinism is more important here.",
+    "stem": "Two things are involved in this matter: dealing with individuals who do not like music and coping with a war-bent society. [[Philistinism]] is more important here.",
     "choices": [
       {
         "key": "a",
@@ -730,7 +730,7 @@
     "id": 31,
     "section": "B",
     "sectionTitle": "Discourse Reference",
-    "stem": "Tell me your plans, and I will give you some money.",
+    "stem": "Tell me your plans, [[and]] I will give you some money.",
     "choices": [
       {
         "key": "a",
@@ -755,7 +755,7 @@
     "id": 32,
     "section": "B",
     "sectionTitle": "Discourse Reference",
-    "stem": "Insert the disk into the player. Then, press the play button.",
+    "stem": "Insert the disk into the player. [[Then]], press the play button.",
     "choices": [
       {
         "key": "a",
@@ -780,7 +780,7 @@
     "id": 33,
     "section": "B",
     "sectionTitle": "Discourse Reference",
-    "stem": "He said \"I will marry you if you want\". But I felt his condition was discouraging.",
+    "stem": "He said \"I will marry you if you want\". But I felt his [[condition]] was discouraging.",
     "choices": [
       {
         "key": "a",
@@ -805,7 +805,7 @@
     "id": 34,
     "section": "B",
     "sectionTitle": "Discourse Reference",
-    "stem": "This examination is meant to determine the level of English language competence of applicants. This is because coping in higher degree classes requires being able to use the English Language effectively.",
+    "stem": "This examination is meant to determine the level of English language competence of applicants. [[This]] is because coping in higher degree classes requires being able to use the English Language effectively.",
     "choices": [
       {
         "key": "a",
@@ -830,7 +830,7 @@
     "id": 35,
     "section": "B",
     "sectionTitle": "Discourse Reference",
-    "stem": "The University of Ibadan is the first and the best University in Nigeria. No one denies that.",
+    "stem": "The University of Ibadan is the first and the best University in Nigeria. No one denies [[that]].",
     "choices": [
       {
         "key": "a",
@@ -855,7 +855,7 @@
     "id": 36,
     "section": "B",
     "sectionTitle": "Discourse Reference",
-    "stem": "Discourse analysis is the study of language used by members of a speech community. It looks at both language form and language function and includes the study of both spoken interaction and written texts.",
+    "stem": "Discourse analysis is the study of language used by members of a speech community. [[It]] looks at both language form and language function and includes the study of both spoken interaction and written texts.",
     "choices": [
       {
         "key": "a",
@@ -880,7 +880,7 @@
     "id": 37,
     "section": "B",
     "sectionTitle": "Discourse Reference",
-    "stem": "I am presently in South Africa. I won't deceive you, I like it.",
+    "stem": "I am presently in South Africa. I won't deceive you, I like [[it]].",
     "choices": [
       {
         "key": "a",
@@ -905,7 +905,7 @@
     "id": 38,
     "section": "B",
     "sectionTitle": "Discourse Reference",
-    "stem": "Laide, why did you take her money. That's shameful.",
+    "stem": "Laide, why did you take her money. [[That's]] shameful.",
     "choices": [
       {
         "key": "a",
@@ -1292,7 +1292,7 @@
     "section": "C",
     "sectionTitle": "Stylistic Variation",
     "instruction": "From the items written against letters a–d in each question below, select an option that best represents the Standard/British English version of each underlined word or expression.",
-    "stem": "My father is an academician.",
+    "stem": "My father is an [[academician]].",
     "choices": [
       {
         "key": "a",
@@ -1317,7 +1317,7 @@
     "id": 55,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "Those boys have assassinated my character.",
+    "stem": "Those boys have [[assassinated my character]].",
     "choices": [
       {
         "key": "a",
@@ -1342,7 +1342,7 @@
     "id": 56,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "The brain behind the conspiracy has been apprehended.",
+    "stem": "[[The brain behind]] the conspiracy has been apprehended.",
     "choices": [
       {
         "key": "a",
@@ -1367,7 +1367,7 @@
     "id": 57,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "The tree has been burnt to ashes.",
+    "stem": "The tree has been [[burnt to ashes]].",
     "choices": [
       {
         "key": "a",
@@ -1392,7 +1392,7 @@
     "id": 58,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "This is a very cheap paper.",
+    "stem": "This is a very [[cheap]] paper.",
     "choices": [
       {
         "key": "a",
@@ -1417,7 +1417,7 @@
     "id": 59,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "Chief Owosebi is the cog in the wheel of this club",
+    "stem": "Chief Owosebi is the [[cog]] in the wheel of this club",
     "choices": [
       {
         "key": "a",
@@ -1442,7 +1442,7 @@
     "id": 60,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "The chief donor has just been invited to the high table to make his speech.",
+    "stem": "The chief donor has just been invited to the [[high table]] to make his speech.",
     "choices": [
       {
         "key": "a",
@@ -1467,7 +1467,7 @@
     "id": 61,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "It's strange the reclusive old man now cracks jokes.",
+    "stem": "It's strange the reclusive old man now [[cracks jokes]].",
     "choices": [
       {
         "key": "a",
@@ -1492,7 +1492,7 @@
     "id": 62,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "My friend is very diplomatic in answering questions from his girlfriend.",
+    "stem": "My friend is very [[diplomatic]] in answering questions from his girlfriend.",
     "choices": [
       {
         "key": "a",
@@ -1517,7 +1517,7 @@
     "id": 63,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "There was a fatal accident at the UI gate last week.",
+    "stem": "There was a [[fatal]] accident at the UI gate last week.",
     "choices": [
       {
         "key": "a",
@@ -1542,7 +1542,7 @@
     "id": 64,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "I like to have bread and fried egg for breakfast.",
+    "stem": "I like to have bread and [[fried egg]] for breakfast.",
     "choices": [
       {
         "key": "a",
@@ -1567,7 +1567,7 @@
     "id": 65,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "Goodygy lacks home training.",
+    "stem": "Goodygy lacks [[home training]].",
     "choices": [
       {
         "key": "a",
@@ -1592,7 +1592,7 @@
     "id": 66,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "If care is not taken, you may not complete the assignment.",
+    "stem": "[[If care is not taken]], you may not complete the assignment.",
     "choices": [
       {
         "key": "a",
@@ -1617,7 +1617,7 @@
     "id": 67,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "I was in the manager's office last week Friday.",
+    "stem": "I was in the manager's office [[last week Friday]].",
     "choices": [
       {
         "key": "a",
@@ -1642,7 +1642,7 @@
     "id": 68,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "My mother put the shoe in a nylon bag.",
+    "stem": "My mother put the shoe in a [[nylon bag]].",
     "choices": [
       {
         "key": "a",
@@ -1667,7 +1667,7 @@
     "id": 69,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "I should enjoy national cake; I am a Nigerian.",
+    "stem": "I should enjoy [[national cake]]; I am a Nigerian.",
     "choices": [
       {
         "key": "a",
@@ -1692,7 +1692,7 @@
     "id": 70,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "I just picked race when I saw my father.",
+    "stem": "I just [[picked race]] when I saw my father.",
     "choices": [
       {
         "key": "a",
@@ -1717,7 +1717,7 @@
     "id": 71,
     "section": "C",
     "sectionTitle": "Stylistic Variation",
-    "stem": "God so good, I remember the Standard English word for \"hot drinks\".",
+    "stem": "[[God so good]], I remember the Standard English word for \"hot drinks\".",
     "choices": [
       {
         "key": "a",
@@ -3346,7 +3346,7 @@
     "section": "F",
     "sectionTitle": "Vocabulary Choices, Collocations, Sense Relations and Tenses",
     "instruction": "In each of the questions below, choose the option that is opposite in meaning to the word(s) or phrase in bold face:",
-    "stem": "Ossified is nearly opposite in meaning to….",
+    "stem": "**Ossified** is nearly opposite in meaning to….",
     "choices": [
       {
         "key": "a",
@@ -3375,7 +3375,7 @@
     "id": 137,
     "section": "F",
     "sectionTitle": "Vocabulary Choices, Collocations, Sense Relations and Tenses",
-    "stem": "Mr Akindele is the most disingenuous person I have ever seen.",
+    "stem": "Mr Akindele is the most **disingenuous** person I have ever seen.",
     "choices": [
       {
         "key": "a",
@@ -3404,7 +3404,7 @@
     "id": 138,
     "section": "F",
     "sectionTitle": "Vocabulary Choices, Collocations, Sense Relations and Tenses",
-    "stem": "I felt enervated by the strain of moving.",
+    "stem": "I felt **enervated** by the strain of moving.",
     "choices": [
       {
         "key": "a",
@@ -3433,7 +3433,7 @@
     "id": 139,
     "section": "F",
     "sectionTitle": "Vocabulary Choices, Collocations, Sense Relations and Tenses",
-    "stem": "Adeola is very brash and unprepossessing.",
+    "stem": "Adeola is very brash and **unprepossessing**.",
     "choices": [
       {
         "key": "a",
@@ -3462,7 +3462,7 @@
     "id": 140,
     "section": "F",
     "sectionTitle": "Vocabulary Choices, Collocations, Sense Relations and Tenses",
-    "stem": "Joyce can be obstreperous at times.",
+    "stem": "Joyce can be **obstreperous** at times.",
     "choices": [
       {
         "key": "a",
@@ -3492,7 +3492,7 @@
     "section": "F",
     "sectionTitle": "Vocabulary Choices, Collocations, Sense Relations and Tenses",
     "instruction": "In each of questions below, choose the option that is similar in meaning to the word or phrase in bold face.",
-    "stem": "Periphrastic is almost similar in meaning to….",
+    "stem": "**Periphrastic** is almost similar in meaning to….",
     "choices": [
       {
         "key": "a",
@@ -3521,7 +3521,7 @@
     "id": 142,
     "section": "F",
     "sectionTitle": "Vocabulary Choices, Collocations, Sense Relations and Tenses",
-    "stem": "His walk to the stage was brisk and sprightly.",
+    "stem": "His walk to the stage was brisk and **sprightly**.",
     "choices": [
       {
         "key": "a",
@@ -3550,7 +3550,7 @@
     "id": 143,
     "section": "F",
     "sectionTitle": "Vocabulary Choices, Collocations, Sense Relations and Tenses",
-    "stem": "His essays are long and prolix.",
+    "stem": "His essays are long and **prolix**.",
     "choices": [
       {
         "key": "a",
@@ -3579,7 +3579,7 @@
     "id": 144,
     "section": "F",
     "sectionTitle": "Vocabulary Choices, Collocations, Sense Relations and Tenses",
-    "stem": "Bukola Smith won plaudits for her skillful handling of the research.",
+    "stem": "Bukola Smith won **plaudits** for her skillful handling of the research.",
     "choices": [
       {
         "key": "a",
@@ -3608,7 +3608,7 @@
     "id": 145,
     "section": "F",
     "sectionTitle": "Vocabulary Choices, Collocations, Sense Relations and Tenses",
-    "stem": "The soldiers were subjected to desultory fire from the enemy position.",
+    "stem": "The soldiers were subjected to **desultory** fire from the enemy position.",
     "choices": [
       {
         "key": "a",
@@ -3637,7 +3637,7 @@
     "id": 146,
     "section": "F",
     "sectionTitle": "Vocabulary Choices, Collocations, Sense Relations and Tenses",
-    "stem": "The drug is used for prophylactic purposes.",
+    "stem": "The drug is used for **prophylactic** purposes.",
     "choices": [
       {
         "key": "a",
@@ -3662,7 +3662,7 @@
     "id": 147,
     "section": "F",
     "sectionTitle": "Vocabulary Choices, Collocations, Sense Relations and Tenses",
-    "stem": "The chairman's remark is germane to the issue under discussion.",
+    "stem": "The chairman's remark is **germane** to the issue under discussion.",
     "choices": [
       {
         "key": "a",
@@ -3687,7 +3687,7 @@
     "id": 148,
     "section": "F",
     "sectionTitle": "Vocabulary Choices, Collocations, Sense Relations and Tenses",
-    "stem": "It is unfortunate that his loss can no longer be redeemed.",
+    "stem": "It is unfortunate that his loss can no longer be **redeemed**.",
     "choices": [
       {
         "key": "a",
@@ -3712,7 +3712,7 @@
     "id": 149,
     "section": "F",
     "sectionTitle": "Vocabulary Choices, Collocations, Sense Relations and Tenses",
-    "stem": "He has been handicapped by the manager's comments.",
+    "stem": "He has been **handicapped** by the manager's comments.",
     "choices": [
       {
         "key": "a",
@@ -3737,7 +3737,7 @@
     "id": 150,
     "section": "F",
     "sectionTitle": "Vocabulary Choices, Collocations, Sense Relations and Tenses",
-    "stem": "The range of options provided is not clear.",
+    "stem": "The **range** of options provided is not clear.",
     "choices": [
       {
         "key": "a",

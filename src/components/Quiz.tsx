@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import type { AnswerMap, Question, QuizMode } from '../types';
+import { StemText } from './StemText';
 
 type Props = {
   questions: Question[];
@@ -161,7 +162,7 @@ export function Quiz({
         {question.instruction && (
           <p className="instruction">{question.instruction}</p>
         )}
-        {question.stem && <p className="stem">{question.stem}</p>}
+        {question.stem && <StemText className="stem" text={question.stem} />}
 
         <div className="choices" role="listbox" aria-label="Answer choices">
           {question.choices.map((choice) => (

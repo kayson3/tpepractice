@@ -175,7 +175,7 @@ export const SECTION_C = [
     section: 'C',
     sectionTitle: 'Stylistic Variation',
     instruction: INSTR2,
-    stem: 'My father is an academician.',
+    stem: 'My father is an [[academician]].',
     choices: [
       { key: 'a', text: 'academics' },
       { key: 'b', text: 'academic' },
@@ -187,7 +187,7 @@ export const SECTION_C = [
     id: 55,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: 'Those boys have assassinated my character.',
+    stem: 'Those boys have [[assassinated my character]].',
     choices: [
       { key: 'a', text: 'injured my name.' },
       { key: 'b', text: 'spoilt my name.' },
@@ -199,7 +199,7 @@ export const SECTION_C = [
     id: 56,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: 'The brain behind the conspiracy has been apprehended.',
+    stem: '[[The brain behind]] the conspiracy has been apprehended.',
     choices: [
       { key: 'a', text: 'The main person who caused.' },
       { key: 'b', text: 'The chief offender in respect of.' },
@@ -211,7 +211,7 @@ export const SECTION_C = [
     id: 57,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: 'The tree has been burnt to ashes.',
+    stem: 'The tree has been [[burnt to ashes]].',
     choices: [
       { key: 'a', text: 'burnt fully.' },
       { key: 'b', text: 'burnt to the ground.' },
@@ -223,7 +223,7 @@ export const SECTION_C = [
     id: 58,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: 'This is a very cheap paper.',
+    stem: 'This is a very [[cheap]] paper.',
     choices: [
       { key: 'a', text: 'simplified' },
       { key: 'b', text: 'easy' },
@@ -235,7 +235,7 @@ export const SECTION_C = [
     id: 59,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: 'Chief Owosebi is the cog in the wheel of this club',
+    stem: 'Chief Owosebi is the [[cog]] in the wheel of this club',
     choices: [
       { key: 'a', text: 'craft' },
       { key: 'b', text: 'clog' },
@@ -247,7 +247,7 @@ export const SECTION_C = [
     id: 60,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: 'The chief donor has just been invited to the high table to make his speech.',
+    stem: 'The chief donor has just been invited to the [[high table]] to make his speech.',
     choices: [
       { key: 'a', text: 'podium' },
       { key: 'b', text: 'raised plat form' },
@@ -259,7 +259,7 @@ export const SECTION_C = [
     id: 61,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: "It's strange the reclusive old man now cracks jokes.",
+    stem: "It's strange the reclusive old man now [[cracks jokes]].",
     choices: [
       { key: 'a', text: 'talks' },
       { key: 'b', text: 'makes jokes' },
@@ -271,7 +271,7 @@ export const SECTION_C = [
     id: 62,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: 'My friend is very diplomatic in answering questions from his girlfriend.',
+    stem: 'My friend is very [[diplomatic]] in answering questions from his girlfriend.',
     choices: [
       { key: 'a', text: 'careful' },
       { key: 'b', text: 'tactical' },
@@ -283,7 +283,7 @@ export const SECTION_C = [
     id: 63,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: 'There was a fatal accident at the UI gate last week.',
+    stem: 'There was a [[fatal]] accident at the UI gate last week.',
     choices: [
       { key: 'a', text: 'disastrous' },
       { key: 'b', text: 'serious' },
@@ -295,7 +295,7 @@ export const SECTION_C = [
     id: 64,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: 'I like to have bread and fried egg for breakfast.',
+    stem: 'I like to have bread and [[fried egg]] for breakfast.',
     choices: [
       { key: 'a', text: 'mixed egg' },
       { key: 'b', text: 'scrambled egg' },
@@ -307,7 +307,7 @@ export const SECTION_C = [
     id: 65,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: 'Goodygy lacks home training.',
+    stem: 'Goodygy lacks [[home training]].',
     choices: [
       { key: 'a', text: 'Goodygy is not well trained by her parents.' },
       { key: 'b', text: 'Goodygy is not well taught.' },
@@ -319,7 +319,7 @@ export const SECTION_C = [
     id: 66,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: 'If care is not taken, you may not complete the assignment.',
+    stem: '[[If care is not taken]], you may not complete the assignment.',
     choices: [
       { key: 'a', text: 'If proper care is not taken.' },
       { key: 'b', text: 'If proper precautions are not taken.' },
@@ -331,7 +331,7 @@ export const SECTION_C = [
     id: 67,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: "I was in the manager's office last week Friday.",
+    stem: "I was in the manager's office [[last week Friday]].",
     choices: [
       { key: 'a', text: 'last Friday' },
       { key: 'b', text: 'Friday of last week' },
@@ -343,7 +343,7 @@ export const SECTION_C = [
     id: 68,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: 'My mother put the shoe in a nylon bag.',
+    stem: 'My mother put the shoe in a [[nylon bag]].',
     choices: [
       { key: 'a', text: 'leather bag' },
       { key: 'b', text: 'cellophane bag' },
@@ -355,7 +355,7 @@ export const SECTION_C = [
     id: 69,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: 'I should enjoy national cake; I am a Nigerian.',
+    stem: 'I should enjoy [[national cake]]; I am a Nigerian.',
     choices: [
       { key: 'a', text: 'national values' },
       { key: 'b', text: 'national privileges' },
@@ -367,7 +367,7 @@ export const SECTION_C = [
     id: 70,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: 'I just picked race when I saw my father.',
+    stem: 'I just [[picked race]] when I saw my father.',
     choices: [
       { key: 'a', text: 'disappeared' },
       { key: 'b', text: 'broke into a run' },
@@ -379,7 +379,7 @@ export const SECTION_C = [
     id: 71,
     section: 'C',
     sectionTitle: 'Stylistic Variation',
-    stem: 'God so good, I remember the Standard English word for "hot drinks".',
+    stem: '[[God so good]], I remember the Standard English word for "hot drinks".',
     choices: [
       { key: 'a', text: 'I am lucky' },
       { key: 'b', text: 'I thank my star' },
